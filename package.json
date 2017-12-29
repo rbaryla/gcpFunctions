@@ -10,5 +10,12 @@
     "GCP"
   ],
   "author": "Robert Baryła",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.20.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rbaryla/gcpFunctions.git"
+  }
 }
